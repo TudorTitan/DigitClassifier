@@ -10,3 +10,4 @@ Download all the files and run: <br/>
 ```console 
 docker compose up
 ```
+You should be able to see the application on [localhost](http://localhost)
