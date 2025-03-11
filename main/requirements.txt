@@ -1,0 +1,5 @@
+pandas
+numpy
+streamlit
+streamlit_drawable_canvas
+psycopg2-binary
