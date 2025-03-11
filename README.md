@@ -7,4 +7,6 @@ Go to 132.145.52.228
 # How to run the application locally
 Make sure you have Docker installed and running.
 (Windows) Download all the files and run:
-"""docker compose up"""
+'''console 
+docker compose up
+'''
